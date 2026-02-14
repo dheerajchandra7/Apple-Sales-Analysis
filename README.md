@@ -133,3 +133,11 @@ Analytical depth
 Decision-driven reporting
 
 Executive communication clarity
+
+
+📂 Dataset
+
+This project uses a publicly available dataset from Kaggle.
+
+Source: Kaggle – Apple Sales Dataset
+https://www.kaggle.com/datasets/amangarg08/apple-retail-sales-dataset/data
