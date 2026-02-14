@@ -56,17 +56,16 @@ Data Modeling Approach: Star Schema
 
 Fact_Sales
 
-Fact_Warranty
-
 Dim_Product
 
 Dim_Store
 
 Dim_Date
 
-Dim_Country
+Dim_Warranty
 
 Optimized relationships to eliminate ambiguity paths and ensure accurate KPI reporting.
+
 
 📊 Core KPIs Built (DAX)
 
@@ -78,9 +77,7 @@ Quantity Sold
 
 Warranty Claim Rate (%)
 
-Bulk Order Identification
-
-Store Performance Ranking
+Total Warranty Claims
 
 🛠 Tools Used
 
@@ -91,6 +88,7 @@ Excel → Quick ad-hoc analysis & validation
 Power Query → Data cleaning & transformation
 
 Power BI → Data modeling, DAX, interactive dashboard
+
 
 📈 Dashboard Highlights
 
@@ -103,6 +101,7 @@ Store & Country Breakdown
 Warranty Trend Monitoring
 
 Designed for business stakeholders — not just analysts.
+
 
 💼 Skills Demonstrated
 
@@ -117,6 +116,7 @@ DAX Measure Engineering
 KPI Design
 
 Insight-to-Decision Thinking
+
 
 🔥 Why This Project Stands Out
 
