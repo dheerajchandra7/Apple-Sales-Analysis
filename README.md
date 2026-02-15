@@ -1,6 +1,6 @@
-# Apple-Sales-Analytics
+# Apple-Sales-Analysis
 
-Apple Sales Analytics | Business Intelligence Project
+Apple Sales Analysis | Business Intelligence Project
 
 An end-to-end Sales & Warranty Analytics Dashboard built using SQL, Excel, Power Query, and Power BI, transforming raw transactional data into executive-level business decisions.
 
